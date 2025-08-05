@@ -1,2 +1,2 @@
 # Codesforces-Icpc
-Codesforces problmes ive been doing
+Codesforces problems ive been doing
